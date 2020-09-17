@@ -7,4 +7,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Android Game 
 - 📫 How to reach me: fauzal.ghani@gmail.com
 - ⚡ Fun fact: I can make API
--->
