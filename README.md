@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Nativescript & Flutter
 - 💬 Ask me about Project
 - 📫 How to reach me: fauzal.ghani@gmail.com
-- ⚡ Fun fact: I LOVE CAT
+- ⚡ Open Project : Web(Laravel) & Mobile(Nativescript)
