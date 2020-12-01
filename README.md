@@ -5,6 +5,5 @@
 - 💬 Ask me about Project
 - 📫 How to reach me: fauzal.ghani@gmail.com
 - ⚡ Open Project : Web(Laravel) & Mobile(Nativescript)
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](http://sistec.co.id/api/img/Slide1.JPG) | ![](http://sistec.co.id/api/img/Slide2.JPG)
+
+<a href="url"><img src="http://sistec.co.id/api/img/Slide1.JPG" align="left" height="48" width="48" ></a>
