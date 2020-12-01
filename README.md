@@ -7,4 +7,4 @@
 - ⚡ Open Project : Web(Laravel) & Mobile(Nativescript)
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![alt text 1](http://sistec.co.id/api/img/Slide1.JPG) | ![alt text 2](http://sistec.co.id/api/img/Slide2.JPG)
+![](http://sistec.co.id/api/img/Slide1.JPG) | ![](http://sistec.co.id/api/img/Slide2.JPG)
